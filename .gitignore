@@ -1,3 +1,12 @@
+# configuration files
+/dehydrated/domains.txt
+/domains.txt
+# credentials
+/keys
+/dehydrated/accounts/
+/dehydrated/certs/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -87,3 +96,5 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+.idea/
